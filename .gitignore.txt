@@ -3,10 +3,10 @@
 /bin/
 target/
 .idea
-.idea/*
+.idea/
 classes/
 META-INF/
-out/**
+out/
   
 # OS Files #
 .DS_Store
