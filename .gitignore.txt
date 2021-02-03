@@ -6,7 +6,7 @@ target/
 .idea/*
 classes/
 META-INF/
-out/*
+out/**
   
 # OS Files #
 .DS_Store
