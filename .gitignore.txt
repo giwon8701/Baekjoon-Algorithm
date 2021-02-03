@@ -3,6 +3,7 @@
 /bin/
 target/
 .idea
+.idea/*
 classes/
 META-INF/
   
