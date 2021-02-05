@@ -1,8 +1,8 @@
-package step1;
+package step01;
 
 import java.util.Scanner;
 
-public class boj7_10998 {
+public class boj07_10998 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
