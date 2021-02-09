@@ -28,9 +28,10 @@ public class boj02_10951 {
                 int b = Integer.parseInt(st.nextToken());
                 System.out.println(a + b);
         }
+
 /*
         Scanner sc = new Scanner(System.in);
-        while (sc.hasNextInt()) {
+        while (sc.hasNext()) {
             int A = sc.nextInt();
             int B = sc.nextInt();
             System.out.println(A + B);
@@ -39,4 +40,3 @@ public class boj02_10951 {
 */
     }
 }
-
